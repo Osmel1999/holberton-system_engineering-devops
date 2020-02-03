@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "$find_user" /ect/passwd | cut -c":" -f6
