@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # connects to a server using ssh
-ssh -i ~/.ssh/holberton ubuntu@34.73.159.44
+ssh -i ~/.ssh/id_rsa ubuntu@34.74.240.242
